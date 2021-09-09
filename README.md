@@ -1,7 +1,7 @@
-# Model-Interpretability-Project-Harvard-CS221
+# Model-Interpretability-Project-Harvard-CS221, Spring 2020
 
 ### Authors
-Daniel Cox
+Daniel Cox   
 Michael Downs
 
 ## Overview
